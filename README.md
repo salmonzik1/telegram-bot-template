@@ -30,6 +30,7 @@ cp .env.sample .env
 
 </details>
 
+| Key | Value |
 | --- | --- |
 | DENO_ENV | Deno environment |
 | LOG_LEVEL | Log level |                        
