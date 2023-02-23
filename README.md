@@ -30,7 +30,7 @@ cp .env.sample .env
 
 </details>
 
-| -- | -- |
+| --- | --- |
 | DENO_ENV | Deno environment |
 | LOG_LEVEL | Log level |                        
 | DATABASE_URL | Database URL |                                                                                            
@@ -40,3 +40,4 @@ cp .env.sample .env
 | BOT_TOKEN | Token, get it from [@BotFather](https://t.me/BotFather) |
 | BOT_WEBHOOK | <details><summary>Webhook endpoint</summary>Used for setup a webhook in production mode.</details> |
 | BOT_ADMIN_USER_ID | <details><summary>Administrator user ID</summary>Commands, such as `/stats` or `/setcommands`, will only be available to the user with this ID.</details> |
+| --- | --- |
