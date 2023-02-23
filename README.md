@@ -30,14 +30,13 @@ cp .env.sample .env
 
 </details>
 
-       |
-| ------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| NODE_ENV            | Deno environment                                                                                                                                          |
-| LOG_LEVEL           | Log level                                                                                                                                                                                |
-| DATABASE_URL        | Database URL                                                                                                                                              |
-| BOT_SERVER_HOST     | Server address                                                                                                                                            |
-| BOT_SERVER_PORT     | Server port                                                                                                                                               |
-| BOT_ALLOWED_UPDATES | List of [update types](https://core.telegram.org/bots/api#update) to receive                                                                              |
-| BOT_TOKEN           | Token, get it from [@BotFather](https://t.me/BotFather)                                                                                                   |
-| BOT_WEBHOOK         | <details><summary>Webhook endpoint</summary>Used for setup a webhook in production mode.</details>                                                        |
-| BOT_ADMIN_USER_ID   | <details><summary>Administrator user ID</summary>Commands, such as `/stats` or `/setcommands`, will only be available to the user with this ID.</details> |
+| -- | -- |
+| DENO_ENV | Deno environment |
+| LOG_LEVEL | Log level |                        
+| DATABASE_URL | Database URL |                                                                                            
+| BOT_SERVER_HOST | Server address |
+| BOT_SERVER_PORT | Server port |
+| BOT_ALLOWED_UPDATES | List of [update types](https://core.telegram.org/bots/api#update) to receive |
+| BOT_TOKEN | Token, get it from [@BotFather](https://t.me/BotFather) |
+| BOT_WEBHOOK | <details><summary>Webhook endpoint</summary>Used for setup a webhook in production mode.</details> |
+| BOT_ADMIN_USER_ID | <details><summary>Administrator user ID</summary>Commands, such as `/stats` or `/setcommands`, will only be available to the user with this ID.</details> |
