@@ -1,0 +1,7 @@
+.env
+
+main.ts
+main_bench.ts
+main_test.ts
+
+dist/

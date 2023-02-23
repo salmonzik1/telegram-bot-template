@@ -1,0 +1,447 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"d",
+				"addBig"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"phra",
+				"phrasesKeyboard"
+			],
+			[
+				"sou",
+				"soundsPath"
+			],
+			[
+				"bu",
+				"ButtonStyle"
+			],
+			[
+				"n",
+				"numbersToEmoji"
+			],
+			[
+				"her",
+				"heroesList"
+			],
+			[
+				"ph",
+				"phrasesFound"
+			],
+			[
+				"pa",
+				"phrases"
+			],
+			[
+				"rea",
+				"readFile"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"comma",
+				"commands"
+			],
+			[
+				"co",
+				"commands"
+			],
+			[
+				"fi",
+				"filePath"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"com",
+				"commandsPath"
+			],
+			[
+				"pr",
+				"eprintln\teprintln!(…)"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "Packages/Rust Enhanced/RustEnhanced.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					""
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Automatic"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Run (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Check"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Test (with args)..."
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Bench"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clean"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Document"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Clippy"
+				],
+				[
+					"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+					"Script"
+				]
+			],
+			[
+				"Packages/Rust Enhanced/RustEnhanced.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"insatl",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lsp:enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp:enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"build",
+				"Build With: ESLint"
+			],
+			[
+				"esli",
+				"ESLint"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"form",
+				"LSP: Format File"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alexander/code/TS-DLB"
+	],
+	"file_history":
+	[
+		"/home/alexander/code/TS-DLB/main.ts",
+		"/home/alexander/code/TS-DLB/project.sublime-project",
+		"/home/alexander/code/TS-DLB/settings.sublime-project",
+		"/home/alexander/code/TS-DLB/deno.jsonc",
+		"/home/alexander/code/TS-DLB/src/app.ts",
+		"/home/alexander/code/TS-DLB/.gitignore",
+		"/home/alexander/code/TS-DLB/.gitign",
+		"/home/alexander/code/TS-DLB/main_test.ts",
+		"/home/alexander/code/TS-DLB/main_bench.ts",
+		"/home/alexander/code/UwUBot/src/bot/commands/slash/find.js",
+		"/home/alexander/code/UwUBot/src/bot/bot.js",
+		"/home/alexander/code/UwUBot/data/sounds/data.json",
+		"/home/alexander/code/UwUBot/.gitignore",
+		"/home/alexander/code/UwUBot/src/helpers/toEmojiDigits.js",
+		"/home/alexander/code/UwUBot/src/bot/commands/slash/ping.js",
+		"/home/alexander/code/UwUBot/src/helpers/findPhrase.js",
+		"/home/alexander/code/UwUBot/src/bot/helpers/findPhrase.js",
+		"/home/alexander/code/UwUBot/src/bot/helpers/numbersToEmoji.js",
+		"/home/alexander/code/UwUBot/utils/registerSlash.js",
+		"/home/alexander/code/UwUBot/src/config.js",
+		"/home/alexander/code/UwUBot/src/bot/handlers/interaction.handler.js",
+		"/home/alexander/code/UwUBot/.env",
+		"/home/alexander/code/UwUBot/package.json",
+		"/home/alexander/code/UwUBot/src/logger.js",
+		"/home/alexander/code/UwUBot/src/app.js",
+		"/home/alexander/code/UwUBot/src/bot/handlers/command.handler.js",
+		"/home/alexander/code/UwUBot/src/bot/commands/models.js",
+		"/home/alexander/code/UwUBot/src/bot.js",
+		"/home/alexander/code/GBot/src/config.js",
+		"/home/alexander/code/GBot/src/app.js",
+		"/home/alexander/code/GBot/.eslintrc.json",
+		"/home/alexander/code/GBot/package.json",
+		"/home/alexander/.config/sublime-text/Packages/User/ESLint.sublime-settings",
+		"/home/alexander/.config/sublime-text/Packages/ESLint/ESLint.sublime-settings",
+		"/home/alexander/code/GBot/.env",
+		"/home/alexander/code/GBot/.gitignore",
+		"/home/alexander/code/Kotlin/testing/index.kt",
+		"/home/alexander/code/GrammyX/test/bot.jsx",
+		"/home/alexander/code/GrammyX/package.json",
+		"/home/alexander/code/GrammyX/src/index.jsx",
+		"/home/alexander/code/rust_projects/book/guessing_game/src/main.rs",
+		"/home/alexander/code/rust_projects/book/guessing_game/Cargo.toml",
+		"/home/alexander/code/rust_projects/book/hello_cargo/src/main.rs",
+		"/home/alexander/code/rust_projects/book/hello_cargo/Cargo.toml",
+		"/home/alexander/code/rust_projects/book/helloworld/main.rs"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"console.log('mark2')",
+			"numbers",
+			"logger",
+			"console",
+			"numbers",
+			"numbers2emoji",
+			": ",
+			"heroes",
+			"        ",
+			"       ",
+			"      ",
+			"     ",
+			"    ",
+			"DISCORD_"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"({\n",
+			"commands"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.doc":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 127.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "settings.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 173.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

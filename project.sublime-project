@@ -1,0 +1,27 @@
+{
+	"settings": {
+		"LSP": {
+			"LSP-typescript": {
+				"enabled": false,
+			},
+			"Deno": {
+				"enabled": true,
+				"settings": {
+					"deno.config": "./deno.jsonc",
+					"deno.unstable": true,
+					"deno.importMap": "./import_map.json",
+					"deno.suggest.imports.hosts": {
+						"https://deno.land": true,
+						"https://some-other-cdn.com": true,
+					},
+				},
+			},
+		},
+	},
+	"folders":
+	[
+		{
+			"path": ".",
+		},
+	],
+}

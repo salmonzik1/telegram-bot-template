@@ -1,0 +1,860 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"bot",
+				"@/bot/features/welcome.feature.ts"
+			],
+			[
+				"ge",
+				"getMilliseconds"
+			],
+			[
+				"get",
+				"getHours"
+			],
+			[
+				"wri",
+				"writeSync"
+			],
+			[
+				"fun",
+				"Function"
+			],
+			[
+				"d",
+				"addBig"
+			],
+			[
+				"func",
+				"function"
+			],
+			[
+				"phra",
+				"phrasesKeyboard"
+			],
+			[
+				"sou",
+				"soundsPath"
+			],
+			[
+				"bu",
+				"ButtonStyle"
+			],
+			[
+				"n",
+				"numbersToEmoji"
+			],
+			[
+				"her",
+				"heroesList"
+			],
+			[
+				"ph",
+				"phrasesFound"
+			],
+			[
+				"pa",
+				"phrases"
+			],
+			[
+				"rea",
+				"readFile"
+			],
+			[
+				"con",
+				"config"
+			],
+			[
+				"comma",
+				"commands"
+			],
+			[
+				"co",
+				"commands"
+			],
+			[
+				"fi",
+				"filePath"
+			],
+			[
+				"comm",
+				"commands"
+			],
+			[
+				"com",
+				"commandsPath"
+			],
+			[
+				"pr",
+				"eprintln\teprintln!(…)"
+			],
+			[
+				"print",
+				"println\tprintln!(…)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "import { Application } from \"oak\";\n\nconst app = new Application();\n\napp.use(webhookCallback(bot, \"oak\"));\n",
+			"file": "src/server/server.ts",
+			"file_size": 148,
+			"file_write_time": 133216564303391774,
+			"settings":
+			{
+				"buffer_size": 106,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "server.ts"
+			},
+			"undo_stack":
+			[
+				[
+					1,
+					1,
+					"insert",
+					{
+						"characters": "server.ts"
+					},
+					"CQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAQAAAAAAAAACAAAAAAAAAAAAAAACAAAAAAAAAAMAAAAAAAAAAAAAAAMAAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAFAAAAAAAAAAAAAAAFAAAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABwAAAAAAAAAAAAAABwAAAAAAAAAIAAAAAAAAAAAAAAAIAAAAAAAAAAkAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					3,
+					1,
+					"left_delete",
+					null,
+					"AQAAAAAAAAAAAAAAAAAAAAAAAAAJAAAAc2VydmVyLnRz",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					5,
+					1,
+					"",
+					null,
+					"AQAAAAAAAAAAAAAAPQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					19,
+					1,
+					"insert",
+					{
+						"characters": "\n\n"
+					},
+					"AgAAAD0AAAAAAAAAPgAAAAAAAAAAAAAAPgAAAAAAAAA/AAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPQAAAAAAAAA9AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"",
+					null,
+					"AQAAAD8AAAAAAAAA0QAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPwAAAAAAAAA/AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					25,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHwAAAAAAAAAfAAAAAAAAAAvAAAALy8gTWFrZSBzdXJlIHRvIHNwZWNpZnkgdGhlIGZyYW1ld29yayB5b3UgdXNlLgo",
+					"AQAAAAAAAAABAAAAqwAAAAAAAAB8AAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					27,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									2,
+									0
+								],
+								[
+									3,
+									0
+								],
+								"",
+								null
+							]
+						]
+					},
+					"AQAAAD8AAAAAAAAAPwAAAAAAAAABAAAACg",
+					"AQAAAAAAAAABAAAAfAAAAAAAAAB8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					31,
+					27,
+					"left_delete",
+					null,
+					"GwAAAHgAAAAAAAAAeAAAAAAAAAABAAAAZ3cAAAAAAAAAdwAAAAAAAAABAAAAbnYAAAAAAAAAdgAAAAAAAAABAAAAaXUAAAAAAAAAdQAAAAAAAAABAAAAc3QAAAAAAAAAdAAAAAAAAAABAAAAdXMAAAAAAAAAcwAAAAAAAAABAAAAIHIAAAAAAAAAcgAAAAAAAAABAAAAZXEAAAAAAAAAcQAAAAAAAAABAAAAcnAAAAAAAAAAcAAAAAAAAAABAAAAJ28AAAAAAAAAbwAAAAAAAAABAAAAdW4AAAAAAAAAbgAAAAAAAAABAAAAb20AAAAAAAAAbQAAAAAAAAABAAAAeWwAAAAAAAAAbAAAAAAAAAABAAAAIGsAAAAAAAAAawAAAAAAAAABAAAAcmoAAAAAAAAAagAAAAAAAAABAAAAZWkAAAAAAAAAaQAAAAAAAAABAAAAdmgAAAAAAAAAaAAAAAAAAAABAAAAZWcAAAAAAAAAZwAAAAAAAAABAAAAdGYAAAAAAAAAZgAAAAAAAAABAAAAYWUAAAAAAAAAZQAAAAAAAAABAAAAaGQAAAAAAAAAZAAAAAAAAAABAAAAd2MAAAAAAAAAYwAAAAAAAAABAAAAIGIAAAAAAAAAYgAAAAAAAAABAAAAcmEAAAAAAAAAYQAAAAAAAAABAAAAb2AAAAAAAAAAYAAAAAAAAAABAAAAIF8AAAAAAAAAXwAAAAAAAAABAAAAL14AAAAAAAAAXgAAAAAAAAABAAAALw",
+					"AQAAAAAAAAABAAAAeQAAAAAAAAB5AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									2,
+									30
+								],
+								[
+									2,
+									31
+								],
+								"",
+								null
+							]
+						]
+					},
+					"AQAAAF0AAAAAAAAAXQAAAAAAAAABAAAAIA",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					34,
+					1,
+					"left_delete",
+					null,
+					"AQAAAFwAAAAAAAAAXAAAAAAAAAABAAAAOw",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									2,
+									29
+								],
+								[
+									2,
+									29
+								],
+								";",
+								null
+							]
+						]
+					},
+					"AQAAAFwAAAAAAAAAXQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXAAAAAAAAABcAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					38,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAD4AAAAAAAAAPwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAG5A"
+				],
+				[
+					40,
+					1,
+					"insert",
+					{
+						"characters": "import"
+					},
+					"BgAAAD4AAAAAAAAAPwAAAAAAAAAAAAAAPwAAAAAAAABAAAAAAAAAAAAAAABAAAAAAAAAAEEAAAAAAAAAAAAAAEEAAAAAAAAAQgAAAAAAAAAAAAAAQgAAAAAAAABDAAAAAAAAAAAAAABDAAAAAAAAAEQAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAPgAAAAAAAAA+AAAAAAAAAAAAAAAAAAAA"
+				],
+				[
+					41,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAEQAAAAAAAAARQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARAAAAAAAAABEAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					42,
+					1,
+					"insert_snippet",
+					{
+						"contents": "{$0}"
+					},
+					"AQAAAEUAAAAAAAAARwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARQAAAAAAAABFAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					43,
+					1,
+					"insert",
+					{
+						"characters": " ewb"
+					},
+					"BAAAAEYAAAAAAAAARwAAAAAAAAAAAAAARwAAAAAAAABIAAAAAAAAAAAAAABIAAAAAAAAAEkAAAAAAAAAAAAAAEkAAAAAAAAASgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARgAAAAAAAABGAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					44,
+					3,
+					"left_delete",
+					null,
+					"AwAAAEkAAAAAAAAASQAAAAAAAAABAAAAYkgAAAAAAAAASAAAAAAAAAABAAAAd0cAAAAAAAAARwAAAAAAAAABAAAAZQ",
+					"AQAAAAAAAAABAAAASgAAAAAAAABKAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					45,
+					1,
+					"insert",
+					{
+						"characters": "webhook"
+					},
+					"BwAAAEcAAAAAAAAASAAAAAAAAAAAAAAASAAAAAAAAABJAAAAAAAAAAAAAABJAAAAAAAAAEoAAAAAAAAAAAAAAEoAAAAAAAAASwAAAAAAAAAAAAAASwAAAAAAAABMAAAAAAAAAAAAAABMAAAAAAAAAE0AAAAAAAAAAAAAAE0AAAAAAAAATgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAARwAAAAAAAABHAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					46,
+					1,
+					"insert",
+					{
+						"characters": "Callback"
+					},
+					"CAAAAE4AAAAAAAAATwAAAAAAAAAAAAAATwAAAAAAAABQAAAAAAAAAAAAAABQAAAAAAAAAFEAAAAAAAAAAAAAAFEAAAAAAAAAUgAAAAAAAAAAAAAAUgAAAAAAAABTAAAAAAAAAAAAAABTAAAAAAAAAFQAAAAAAAAAAAAAAFQAAAAAAAAAVQAAAAAAAAAAAAAAVQAAAAAAAABWAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAATgAAAAAAAABOAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					47,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAFYAAAAAAAAAVwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAVgAAAAAAAABWAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					49,
+					1,
+					"insert",
+					{
+						"characters": " from"
+					},
+					"BQAAAFgAAAAAAAAAWQAAAAAAAAAAAAAAWQAAAAAAAABaAAAAAAAAAAAAAABaAAAAAAAAAFsAAAAAAAAAAAAAAFsAAAAAAAAAXAAAAAAAAAAAAAAAXAAAAAAAAABdAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAWAAAAAAAAABYAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					50,
+					1,
+					"insert",
+					{
+						"characters": " "
+					},
+					"AQAAAF0AAAAAAAAAXgAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABdAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					51,
+					1,
+					"insert_snippet",
+					{
+						"contents": "'$0'"
+					},
+					"AQAAAF4AAAAAAAAAYAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXgAAAAAAAABeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					52,
+					1,
+					"insert",
+					{
+						"characters": "grammu"
+					},
+					"BgAAAF8AAAAAAAAAYAAAAAAAAAAAAAAAYAAAAAAAAABhAAAAAAAAAAAAAABhAAAAAAAAAGIAAAAAAAAAAAAAAGIAAAAAAAAAYwAAAAAAAAAAAAAAYwAAAAAAAABkAAAAAAAAAAAAAABkAAAAAAAAAGUAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAXwAAAAAAAABfAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					53,
+					1,
+					"left_delete",
+					null,
+					"AQAAAGQAAAAAAAAAZAAAAAAAAAABAAAAdQ",
+					"AQAAAAAAAAABAAAAZQAAAAAAAABlAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					54,
+					1,
+					"insert",
+					{
+						"characters": "y"
+					},
+					"AQAAAGQAAAAAAAAAZQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZAAAAAAAAABkAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					56,
+					1,
+					"insert",
+					{
+						"characters": ";"
+					},
+					"AQAAAGYAAAAAAAAAZwAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAZgAAAAAAAABmAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					61,
+					1,
+					"lsp_apply_document_edit",
+					{
+						"changes":
+						[
+							[
+								[
+									1,
+									32
+								],
+								[
+									1,
+									33
+								],
+								"\"",
+								null
+							],
+							[
+								[
+									1,
+									39
+								],
+								[
+									1,
+									40
+								],
+								"\"",
+								null
+							]
+						]
+					},
+					"AgAAAGUAAAAAAAAAZgAAAAAAAAABAAAAJ14AAAAAAAAAXwAAAAAAAAABAAAAJw",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAAeAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					63,
+					1,
+					"insert",
+					{
+						"characters": "oak"
+					},
+					"BAAAAB0AAAAAAAAAHgAAAAAAAAAAAAAAHgAAAAAAAAAeAAAAAAAAAB4AAABodHRwczovL2Rlbm8ubGFuZC94L29hay9tb2QudHMeAAAAAAAAAB8AAAAAAAAAAAAAAB8AAAAAAAAAIAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAHQAAAAAAAAA7AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					79,
+					2,
+					"left_delete",
+					null,
+					"AgAAACMAAAAAAAAAIwAAAAAAAAApAAAAaW1wb3J0IHsgd2ViaG9va0NhbGxiYWNrIH0gZnJvbSAiZ3JhbW15IjsiAAAAAAAAACIAAAAAAAAAAQAAAAo",
+					"AQAAAAAAAAABAAAATAAAAAAAAAAjAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"form",
+				"LSP: Format File"
+			],
+			[
+				"format",
+				"LSP: Format File"
+			],
+			[
+				"for",
+				"Sublime Merge: Folder History"
+			],
+			[
+				"lspfor",
+				"LSP: Format File"
+			],
+			[
+				"fo",
+				"LSP: Format File"
+			],
+			[
+				"forma",
+				"LSP: Format File"
+			],
+			[
+				"lsp: enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"insatl",
+				"Package Control: Install Package"
+			],
+			[
+				"lsp",
+				"LSP: Enable Language Server Globally"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"lsp:enab",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"lsp:enable",
+				"LSP: Enable Language Server in Project"
+			],
+			[
+				"build",
+				"Build With: ESLint"
+			],
+			[
+				"esli",
+				"ESLint"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"eslin",
+				"ESLint"
+			],
+			[
+				"re",
+				"Package Control: Remove Package"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Install Package Control"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/alexander/code/TS-DLB",
+		"/home/alexander/code/TS-DLB/src"
+	],
+	"file_history":
+	[
+		"/home/alexander/code/TS-DLB/import_map.json",
+		"/home/alexander/code/TS-DLB/src/db/models/Users.ts",
+		"/home/alexander/code/TS-DLB/src/db/mongoose.ts",
+		"/home/alexander/code/TS-DLB/src/bot/features/welcome.feature.ts",
+		"/home/alexander/code/TS-DLB/src/bot/models/Context.ts",
+		"/home/alexander/code/TS-DLB/src/bot/middlewares/attachUser.middeware.ts",
+		"/home/alexander/code/TS-DLB/src/bot/bot.ts",
+		"/home/alexander/code/TS-DLB/src/bot/middlewares/i18n.middleware.ts",
+		"/home/alexander/code/TS-DLB/src/bot/handlers/error.handler.ts",
+		"/home/alexander/code/TS-DLB/src/app.ts",
+		"/home/alexander/code/TS-DLB/src/db/mongo.ts",
+		"/home/alexander/code/TS-DLB/.env",
+		"/home/alexander/code/TS-DLB/deno.jsonc",
+		"/home/alexander/code/TS-DLB/src/logger.ts",
+		"/home/alexander/code/TS-DLB/src/bot/models/Conversation.ts",
+		"/home/alexander/code/TS-DLB/src/bot/middlewares/i18n.ts",
+		"/home/alexander/code/DoLessonsBotV/src/bot/middlewares/i18n.js",
+		"/home/alexander/code/TS-DLB/src/bot/Context.ts",
+		"/home/alexander/code/TS-DLB/src/db/db.ts",
+		"/home/alexander/.cache/deno/npm/registry.npmjs.org/mongoose/6.10.0/types/models.d.ts",
+		"/home/alexander/code/TS-DLB/src/config.ts",
+		"/home/alexander/code/TS-DLB/project.sublime-project",
+		"/home/alexander/code/TS-DLB/.gitignore",
+		"/home/alexander/code/TS-DLB/.env.sample",
+		"/home/alexander/code/PrismaTest/main.ts",
+		"/home/alexander/code/PrismaTest/.gitignore",
+		"/home/alexander/code/PrismaTest/prisma/schema.prisma",
+		"/home/alexander/code/PrismaTest/.env",
+		"/home/alexander/code/TS-DLB/src/prisma/index.ts",
+		"/home/alexander/code/TS-DLB/prisma/schema.prisma",
+		"/home/alexander/code/TS-DLB/generated/client/index.d.ts",
+		"/home/alexander/code/TS-DLB/prisma/seed.ts",
+		"/home/alexander/code/TS-DLB/main.ts",
+		"/home/alexander/code/TS-DLB/src/.env",
+		"/home/alexander/code/TS-DLB/settings.sublime-project",
+		"/home/alexander/code/TS-DLB/.gitign",
+		"/home/alexander/code/TS-DLB/main_test.ts",
+		"/home/alexander/code/TS-DLB/main_bench.ts",
+		"/home/alexander/code/UwUBot/src/bot/commands/slash/find.js",
+		"/home/alexander/code/UwUBot/src/bot/bot.js",
+		"/home/alexander/code/UwUBot/data/sounds/data.json",
+		"/home/alexander/code/UwUBot/.gitignore",
+		"/home/alexander/code/UwUBot/src/helpers/toEmojiDigits.js",
+		"/home/alexander/code/UwUBot/src/bot/commands/slash/ping.js",
+		"/home/alexander/code/UwUBot/src/helpers/findPhrase.js",
+		"/home/alexander/code/UwUBot/src/bot/helpers/findPhrase.js",
+		"/home/alexander/code/UwUBot/src/bot/helpers/numbersToEmoji.js",
+		"/home/alexander/code/UwUBot/utils/registerSlash.js",
+		"/home/alexander/code/UwUBot/src/config.js",
+		"/home/alexander/code/UwUBot/src/bot/handlers/interaction.handler.js",
+		"/home/alexander/code/UwUBot/.env",
+		"/home/alexander/code/UwUBot/package.json",
+		"/home/alexander/code/UwUBot/src/logger.js",
+		"/home/alexander/code/UwUBot/src/app.js",
+		"/home/alexander/code/UwUBot/src/bot/handlers/command.handler.js",
+		"/home/alexander/code/UwUBot/src/bot/commands/models.js",
+		"/home/alexander/code/UwUBot/src/bot.js",
+		"/home/alexander/code/GBot/src/config.js",
+		"/home/alexander/code/GBot/src/app.js",
+		"/home/alexander/code/GBot/.eslintrc.json",
+		"/home/alexander/code/GBot/package.json",
+		"/home/alexander/.config/sublime-text/Packages/User/ESLint.sublime-settings",
+		"/home/alexander/.config/sublime-text/Packages/ESLint/ESLint.sublime-settings",
+		"/home/alexander/code/GBot/.env",
+		"/home/alexander/code/GBot/.gitignore",
+		"/home/alexander/code/Kotlin/testing/index.kt",
+		"/home/alexander/code/GrammyX/test/bot.jsx",
+		"/home/alexander/code/GrammyX/package.json",
+		"/home/alexander/code/GrammyX/src/index.jsx",
+		"/home/alexander/code/rust_projects/book/guessing_game/src/main.rs",
+		"/home/alexander/code/rust_projects/book/guessing_game/Cargo.toml",
+		"/home/alexander/code/rust_projects/book/hello_cargo/src/main.rs",
+		"/home/alexander/code/rust_projects/book/hello_cargo/Cargo.toml",
+		"/home/alexander/code/rust_projects/book/helloworld/main.rs"
+	],
+	"find":
+	{
+		"height": 30.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"Query",
+			"\"",
+			"getHours",
+			"\"",
+			"gray",
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/server/server.ts",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 106,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								66,
+								66
+							]
+						],
+						"settings":
+						{
+							"auto_complete_triggers":
+							[
+								{
+									"characters": "<",
+									"selector": "text.html, text.xml"
+								},
+								{
+									"rhs_empty": true,
+									"selector": "punctuation.accessor"
+								},
+								{
+									"characters": ".\"'`/@<#",
+									"selector": "meta.tag, source - comment - string.quoted.double.block - string.quoted.single.block - string.unquoted.heredoc",
+									"server": "Deno"
+								}
+							],
+							"auto_name": "server.ts",
+							"lsp_active": true,
+							"lsp_hover_provider_count": 1,
+							"lsp_uri": "file:///home/alexander/code/TS-DLB/src/server/server.ts",
+							"show_definitions": false,
+							"syntax": "Packages/JavaScript/TypeScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.0
+	},
+	"input":
+	{
+		"height": 48.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.LSP Log Panel":
+	{
+		"height": 0.0
+	},
+	"output.diagnostics":
+	{
+		"height": 0.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.references":
+	{
+		"height": 121.0
+	},
+	"pinned_build_system": "",
+	"project": "project.sublime-project",
+	"replace":
+	{
+		"height": 56.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 181.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

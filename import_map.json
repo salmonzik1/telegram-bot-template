@@ -1,0 +1,14 @@
+{
+	"imports": {
+		"grammy": "https://deno.land/x/grammy@v1.14.1/mod.ts",
+		"@grammyts/types": "https://deno.land/x/grammy@v1.14.1/types.deno.ts",
+		"@grammyts/transformer-throttler": "https://deno.land/x/grammy_transformer_throttler@v1.2.1/mod.ts",
+		"@grammyts/parse-mode": "https://deno.land/x/grammy_parse_mode@1.5.0/mod.ts",
+		"@grammyts/conversations": "https://deno.land/x/grammy_conversations@v1.1.1/mod.ts",
+		"@grammyts/i18n": "https://deno.land/x/grammy_i18n@v1.0.1/mod.ts",
+		"mongoose": "npm:mongoose",
+		"oak": "https://deno.land/x/oak@v11.1.0/mod.ts",
+		"chalk": "https://deno.land/x/chalk_deno@v4.1.1-deno/source/index.js",
+		"@/": "./src/"
+	}
+}
