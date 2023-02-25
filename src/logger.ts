@@ -9,13 +9,13 @@ export class Logger {
 		this.level = level;
 	}
 
-	log(...args: string[]) {
+	log(...args: any[]) {
 		if (['silent'].includes(this.level)) return;
 
 		console.log(...args);
 	}
 
-	info(...args: string[]) {
+	info(...args: any[]) {
 		if (['silent'].includes(this.level)) return;
 
 		const date = new Date();
@@ -27,7 +27,7 @@ export class Logger {
 		);
 	}
 
-	warn(...args: string[]) {
+	warn(...args: any[]) {
 		if (['silent, info'].includes(this.level)) return;
 
 		const date = new Date();
@@ -39,7 +39,7 @@ export class Logger {
 		);	
 	}
 
-	error(...args: string[]) {
+	error(...args: any[]) {
 		if (['silent, info'].includes(this.level)) return;
 
 		const date = new Date();

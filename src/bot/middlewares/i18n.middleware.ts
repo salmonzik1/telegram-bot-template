@@ -7,7 +7,11 @@ import { Users } from "@/db/models/Users.ts";
 
 export const i18n = new I18n<Context>({
   useSession: true,
+  defaultLocale: "en",
   directory: mod.resolve(Deno.cwd(), "locales"),
+  fluentBundleOptions: {
+    useIsolating: false,
+  },
 });
 
 export async function configureI18n(ctx: Context, next: NextFunction) {
